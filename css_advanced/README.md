@@ -54,7 +54,7 @@ SmileSchool is a responsive, visually engaging website built using **HTML** and 
 
 ## Screenshots
 ### 1. Hero Section
-![alt text](image-2.png)
+![Hero section screenshot](image-2.png)
 
 ### 2. Smile Tutorials
-![Hero section screenshot](./assets/hero-section.png)
+![ Smile Tutorials screenshot](./assets/smile-tutorials.png)
