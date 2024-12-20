@@ -48,3 +48,13 @@ SmileSchool is a responsive, visually engaging website built using **HTML** and 
 ## How to Use
 1. Clone or download the repository.
 2. Ensure the project structure is maintained:
+3. Open `index.html` in your preferred web browser to view the website.
+
+---
+
+## Screenshots
+### 1. Hero Section
+![alt text](image-2.png)
+
+### 2. Smile Tutorials
+![Hero section screenshot](./assets/hero-section.png)
