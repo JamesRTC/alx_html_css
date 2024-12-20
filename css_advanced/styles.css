@@ -21,8 +21,8 @@ body {
     font-family: "Source Sans 3", serif;
     line-height: 1.5;
     color: white;
-    -webkit-font-smoothing: antialiased; /* Improve font rendering on webkit-based browsers */
-    -moz-osx-font-smoothing: grayscale; /* Improve font rendering on Firefox */
+    -webkit-font-smoothing: antialiased; 
+    -moz-osx-font-smoothing: grayscale; 
 }
 
 a {
@@ -40,9 +40,9 @@ img {
 }
 
 button, input, textarea, select {
-    font: inherit; /* Inherits font from parent for consistency */
-    border: none; /* Remove default borders */
-    outline: none; /* Remove default focus styles */
+    font: inherit; 
+    border: none; 
+    outline: none; 
 }
 
 
